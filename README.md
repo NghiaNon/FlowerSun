@@ -1,4 +1,5 @@
-    Ngày nay với sự ra đời của nhiều công nghệ hiện đại cũng như các sản phẩm ngày 
+**INTRODUCTION**    
+Ngày nay với sự ra đời của nhiều công nghệ hiện đại cũng như các sản phẩm ngày 
 càng tinh vi hơn. Để đáp ứng nhu đơn giản hóa việc chăm sóc cây cảnh thì nhóm em đề 
 xuất thiết kế một chiếc chậu cây sử dụng công nghệ CAD và CAM sử dụng máy tính để 
 thiết kế với độ chính xác cao cho phép xem trước và điều khiển sản phẩm theo ý muốn 
