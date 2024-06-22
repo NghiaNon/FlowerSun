@@ -19,4 +19,5 @@ Bài tiểu luận này có nhưng nội dung chính như sau: Tổng quan v�
 pháp, kĩ thuật được sử dụng,  các thiết bị, thông số kĩ thuật của hệ thống, lưu đồ thuật 
 toán, kết quả thu được qua đó đánh giá ưu nhược điểm của hệ thống.
 
+**Algorithm Flowchart**
 ![example](luudothuattoan.png)
